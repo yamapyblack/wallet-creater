@@ -1,0 +1,12 @@
+{
+  "name": "wallet-creater",
+  "version": "1.0.0",
+  "description": "create ethereum wallet by ethers.js",
+  "main": "index.js",
+  "repository": "git@github.com:yamapyblack/wallet-creater.git",
+  "author": "yamapyblack <s25050730r@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ethers": "^5.0.31"
+  }
+}
