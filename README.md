@@ -1,6 +1,9 @@
 # wallet-creater
 
+prepare
 ```
+git clone git@github.com:yamapyblack/wallet-creater.git
+cd wallet-creater
 yarn install
 ```
 
@@ -11,11 +14,10 @@ node index.js
 
 please set mnemonic
 ```
-export MNEMONIC=""
+export MNEMONIC="hoge fuga ..."
 ```
 
-please set number 
-walletsFromMnemonic.js
+please set number "walletsFromMnemonic.js"
 ```
 const len = 10;
 ```
