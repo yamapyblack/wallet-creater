@@ -9,9 +9,9 @@ create nimonic
 node index.js
 ```
 
-please set nimonic
+please set mnemonic
 ```
-export NIMONIC=""
+export MNEMONIC=""
 ```
 
 please set number 
